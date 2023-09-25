@@ -10,7 +10,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Medeiros-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Medeiros-FTK" height="30" width="40" src="https://cdn11.bigcommerce.com/s-2c9am5e92r/images/stencil/1280x1280/products/8618/4463/AccessData-FTK__48816.1562159340.png?c=2">
+     <img align="center" alt="Medeiros-FTK" height="30" width="40" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/accessdata.png">
  <!--- <img align="center" alt="Medeiros-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
  <!--- <img align="center" alt="Medeiros-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Medeiros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
