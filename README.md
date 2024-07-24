@@ -19,7 +19,7 @@
   <img align="center" alt="Medeiros-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <!--<img align="center" alt="Medeiros-SWIFT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
   <img align="center" alt="Medeiros-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Medeiros-FTK" height="30" width="40" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/accessdata.png">
+     <img align="center" alt="Medeiros-AWS" height="30" width="40" src="https://iconscout.com/pt/free-icon/amazon-aws-3521268">
      <img align="center" alt="Medeiros-ISO" height="30" width="40" src="https://www.sistemaimpulsa.com/blog/wp-content/uploads/2020/02/Que-son-las-normas-ISO.jpg">
  <!--- <img align="center" alt="Medeiros-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="Medeiros-yoda" src="https://c.tenor.com/7rMJZKO5CYYAAAAM/baby-yoda-hi.gif">
