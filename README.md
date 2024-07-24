@@ -14,12 +14,13 @@
   <img align="center" alt="Medeiros-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!--- <img align="center" alt="Medeiros-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
  <!--- <img align="center" alt="Medeiros-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="Medeiros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Medeiros-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--- <img align="center" alt="Medeiros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
+  <!--- <img align="center" alt="Medeiros-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
   <img align="center" alt="Medeiros-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <!--<img align="center" alt="Medeiros-SWIFT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
   <img align="center" alt="Medeiros-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Medeiros-AWS" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256">
+    <img align="center" alt="Medeiros-Azure" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-azure-1868965-1583129.png?f=webp&w=256">
      <img align="center" alt="Medeiros-ISO" height="30" width="40" src="https://www.sistemaimpulsa.com/blog/wp-content/uploads/2020/02/Que-son-las-normas-ISO.jpg">
  <!--- <img align="center" alt="Medeiros-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="Medeiros-yoda" src="https://c.tenor.com/7rMJZKO5CYYAAAAM/baby-yoda-hi.gif">
